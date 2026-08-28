@@ -20,23 +20,23 @@ The platform presents limited fashion drops and allows users to explore products
 
 The homepage highlights:
 
-New product drops
+• New product drops
 
-Featured products
+• Featured products
 
-Product categories
+• Product categories
 
-Product pricing and discounts
+• Product pricing and discounts
 
-Bestseller products
+• Bestseller products
 
-Product ratings
+• Product ratings
 
-Brand values
+• Brand values
 
-Early access newsletter section
+• Early access newsletter section
 
-Shopping cart functionality
+•Shopping cart functionality
 
 The current storefront includes products such as the Oversized Drop Tee Vol.3, Street Hoodie – Olive, Utility Cargo – Beige, and TC 6-Panel Cap, with pricing, discounts, and product-detail navigation.
 
@@ -48,23 +48,23 @@ The current storefront includes products such as the Oversized Drop Tee Vol.3, S
 The homepage provides a strong visual introduction to the ThreadCo brand and its streetwear collection.
 Features include:
 
-Modern hero section
+• Modern hero section
 
-Brand slogan and marketing content
+• Brand slogan and marketing content
 
-Call-to-action buttons
+• Call-to-action buttons
 
-Featured weekly drops
+• Featured weekly drops
 
-Product cards
+• Product cards
 
-Discount information
+• Discount information
 
-Bestseller section
+• Bestseller section
 
-Newsletter subscription interface
+• Newsletter subscription interface
 
-Responsive navigation
+• Responsive navigation
 
 # 🛍️ Product Catalog
 <img width="1274" height="709" alt="Screenshot 2026-08-28 at 3 51 34 PM" src="https://github.com/user-attachments/assets/77afa0ad-e70b-4c97-84e2-076d9d8a9480" />
@@ -74,31 +74,31 @@ Users can browse different fashion products through the product section.
 
 Each product card includes:
 
-Product image
+• Product image
 
-Product name
+• Product name
 
-Product category
+• Product category
 
-Current price
+• Current price
 
-Original price
+• Original price
 
-Discount percentage
+• Discount percentage
 
-Product detail button
+• Product detail button
 
-Add to Cart button
+• Add to Cart button
 
-Example product categories include:
+• Example product categories include:
 
-T-Shirts
+• T-Shirts
 
-Hoodies
+• Hoodies
 
-Cargo Pants
+• Cargo Pants
 
-Caps
+• Caps
 
 # 📦 Product Details
 <img width="1261" height="711" alt="Screenshot 2026-08-28 at 3 52 11 PM" src="https://github.com/user-attachments/assets/4432f4cf-0d86-4342-8f14-f7d0c918888b" />
@@ -106,36 +106,36 @@ Caps
 The application includes a dedicated product-detail experience where users can explore products in more detail.
 Possible product information includes:
 
-Product name
+• Product name
 
-Product image
+• Product image
 
-Category
+• Category
 
-Price
+• Price
 
-Discount
+• Discount
 
-Product description
+• Product description
 
-Product-related information
+• Product-related information
 
-Add to Cart functionality
+• Add to Cart functionality
 
 # 🛒 Shopping Cart
 
 The website includes a shopping cart system that allows users to interact with selected products.
 Core cart functionality includes:
 
-Adding products to the cart
+• Adding products to the cart
 
-Updating cart count
+• Updating cart count
 
-Viewing selected products
+• Viewing selected products
 
-Managing shopping items
+• Managing shopping items
 
-Calculating product totals
+• Calculating product totals
 
 # 🧰 Technologies Used
 This project is built using front-end web technologies.
@@ -144,49 +144,51 @@ HTML5
 
 Used for:
 
-Website structure
+• Website structure
 
-Navigation
+• Navigation
 
-Product sections
+• Product sections
 
-Forms
+• Forms
 
-Buttons
+• Buttons
 
-Content organization
+• Content organization
+
 
 CSS3
 
 Used for:
 
-Responsive design
+• Responsive design
 
-Layout styling
+• Layout styling
 
-Product cards
+• Product cards
 
-Navigation styling
+• Navigation styling
 
-Animations
+• Animations
 
-Hover effects
+• Hover effects
 
-Media queries
+• Media queries
+
 
 JavaScript
 
 Used for interactive functionality such as:
 
-Shopping cart operations
+• Shopping cart operations
 
-Updating cart count
+• Updating cart count
 
-Product interactions
+• Product interactions
 
-Dynamic UI behavior
+• Dynamic UI behavior
 
-User interaction handling
+• User interaction handling
 
 
 
