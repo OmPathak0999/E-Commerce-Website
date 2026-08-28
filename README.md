@@ -9,7 +9,7 @@ ThreadCo – Wear the Code. Live the Street.
 
 Visit the Live Website: https://e-commerce-website-sage-mu-70.vercel.app
 
-Built with ❤️ using HTML, CSS, and JavaScript.
+Built with using HTML, CSS, and JavaScript.
 
 
 # 💻 Project Overview
@@ -187,6 +187,8 @@ Product interactions
 Dynamic UI behavior
 
 User interaction handling
+
+
 
 # 👨‍💻 Author
 # Om Sarvadeo Pathak
